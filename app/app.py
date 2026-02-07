@@ -14,4 +14,4 @@ def hello():
     return f"{ascii_art}\nHola desde Master UCM - Introducción al CI/CD 🚀"
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=4000)
+    app.run(host="0.0.0.0", port=3000)
